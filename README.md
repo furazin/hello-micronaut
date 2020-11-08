@@ -1,6 +1,4 @@
-# hello-micronaut
-Simple micronaut example
+## Feature http-client documentation
 
+- [Micronaut Micronaut HTTP Client documentation](https://docs.micronaut.io/latest/guide/index.html#httpClient)
 
-- First install SDK: https://sdkman.io/install
-- Then create the micronaut project:  mn create-app hello-micronaut -build=maven
